@@ -7,6 +7,24 @@ Autonomous driving relies on a continuous loop of perception, planning, and cont
 • Planning (RNNs & Transformers): Recurrent Neural Networks (RNNs) and transformer models evaluate the state of the environment over time. They predict the future trajectories of surrounding pedestrians and vehicles, allowing the system to plot the safest path forward.
 • Control (Deep Reinforcement Learning): DRL models translate the planned path into physical actions, dynamically managing steering angles, acceleration, and braking based on real-time environmental feedback.
 
+# APPLICATIONS
+AI-based self-driving technology can be applied in:
+
+• Autonomous cars 
+• Driver-assistance systems 
+
+• Autonomous taxis 
+
+• Smart public transportation 
+
+• Delivery vehicles 
+
+• Automated parking 
+
+• Traffic management 
+
+• Logistics and transportation 
+
 # RELATED AI TOOLS / TECHNOLOGIES
 • Machine Learning (ML) :Learns patterns from user interactions. • Deep Learning (DL) :Used for speech and language understanding. • Natural Language Processing (NLP): Understands human language. • Automatic Speech Recognition (ASR) :Converts speech into text. • Natural Language Understanding (NLU) :Identifies the meaning and intent of commands. • Text-to-Speech (TTS) :Converts generated text into natural-sounding speech. • Generative AI: Can generate more natural and context-aware responses. • Cloud AI Services:Provide large-scale speech, language and knowledge-processing capabilities.
 # RESULT
